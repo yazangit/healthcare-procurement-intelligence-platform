@@ -296,7 +296,7 @@ Protected routes demonstrate Role-Based Access Control (RBAC).
 
 ## Procurement Workflow
 
-![Workflow](docs/screenshots/workflow.png)
+![Workflow](docs/screenshots/Workflow.png)
 
 ---
 
