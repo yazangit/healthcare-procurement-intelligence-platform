@@ -1,0 +1,23 @@
+@import "@fontsource/inter";
+@import "./tokens.css";
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(204, 251, 241, 0.8), transparent 32rem),
+    linear-gradient(180deg, #f8fdfd 0%, #f7fbfb 45%, #f8fafc 100%);
+  color: var(--color-text);
+  font-family: Inter, system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
